@@ -97,9 +97,7 @@ This visualization highlights both the **term structure** and **moneyness dynami
 
 ## Project Structure
 <img width="2848" height="1600" alt="image" src="https://github.com/user-attachments/assets/ef7a52c9-11a2-4d41-bfce-48af4b4c6790" />
-```
-Option_Pricing_and_Volatility_Analysis.ipynb   # Main notebook: data ingestion → pricing → IV surfaces
-image.jpg                                      # Example of 3D IV surface visualization
+
 ```
 
 ---
