@@ -1,4 +1,4 @@
-
+<img width="1364" height="1190" alt="image" src="https://github.com/user-attachments/assets/ae8c6105-cb8b-49d4-a791-58fe35b0a243" />
 # AAPL Option Pricing and Implied Volatility Analysis
 
 A comprehensive, end-to-end pipeline for **option pricing, Greek computation, implied volatility extraction, and IV surface construction** for AAPL equity options. This repository serves as a robust template for quantitative option analysis and volatility modeling.
@@ -70,6 +70,8 @@ This notebook implements a complete workflow for AAPL option analysis:
 ---
 
 ## IV Surface Methodology
+ <img width="1364" height="1190" alt="image" src="https://github.com/user-attachments/assets/482d31fd-f466-42e2-a4ba-4d600b4548c1" />
+
 
 * **Top Row:** Call surfaces
 
@@ -88,7 +90,7 @@ Axes definitions:
 * **Z-axis:** Implied volatility
 
 This visualization highlights both the **term structure** and **moneyness dynamics** of the AAPL options market.
-![Uploading image.png…]()
+
 
 ---
 
